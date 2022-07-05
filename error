@@ -1,0 +1,17 @@
+UTC Date: 2022-07-05T07:59:00.864Z
+Client Id: ACEA21E831AB4BE09D2198374F02F3CF
+Session Id: c9e0e2b0-423e-4002-9419-9b42e1a8f832
+Client Version: 20220624003.15
+BootResult: configuration
+err: Microsoft.Exchange.Clients.Owa2.Server.Core.OwaUserHasNoMailboxAndNoLicenseAssignedException
+esrc: StartupData
+et: ServerError
+estack: Error: 500
+    at d (https://outlook.office.com/mail/:300:246923)
+    at https://outlook.office.com/mail/:300:255934
+st: 500
+ehk: X-OWA-Error
+efe: KL1PR01CA0031, ME2PR01CA0189
+ebe: KL1PR0401MB5046
+emsg: UserHasNoMailboxAndNoLicenseAssignedError
+
